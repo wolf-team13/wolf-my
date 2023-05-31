@@ -5,3 +5,4 @@
 1WOLF = 0WOLF = 3WOLF = 5WOLF = 2WOLF = uWOLF = 0WOLF = _WOLF = aWOLF = 3WOLF = 5WOLF = 2
 10325u0_a325
 1 ➳ 0 ➳ 3 ➳ 2 ➳ 5 ➳ u ➳ 0 ➳ _ ➳ a ➳ 3 ➳ 2 ➳ 5
+1 ➳ 0 ➳ 3 ➳ 5 ➳ 5 ➳ u ➳ 0 ➳ _ ➳ a ➳ 3 ➳ 5 ➳ 5
